@@ -13,17 +13,20 @@ We are doing this project to show what are the steps needed to complete a projec
 
 
 Installation:
-
+No installation neede. Very simple project
 
  Usage:
+ npm run index.js
+
  
  License:
- 
+MIT licence 
  
  Contributing:
- 
+ Me
  
  Tests:
- 
+ none
  
  Questions:
+None
